@@ -85,3 +85,7 @@ background-color: #2757ad;
     color: aliceblue;
     
 }
+
+.msg-contacto{
+    font-size: var(--text-small);
+}
